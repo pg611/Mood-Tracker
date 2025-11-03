@@ -6,6 +6,7 @@ This project demonstrates concepts like data persistence, SwiftUI components, st
 ---
 
 ## 🎥 Project Demo
+[![Watch Demo](https://img.shields.io/badge/🎥-Watch%20Demo-blue)](https://github.com/pg611/Mood-Tracker/docs/Mood Tracker Demo.mov)
 [![Watch Demo](https://img.shields.io/badge/🎥-Watch%20Demo-blue)](https://github.com/pg611/Mood-Tracker/blob/main/Mood%20Tracker%20Demo.mov)
 
 <video controls width="600">
